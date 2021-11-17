@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <p>
     <img src="https://img.shields.io/badge/Super Fast-%E2%9A%A1%EF%B8%8F-%23DD6B20?style=flat-square" />
     <span> </span>
-    <img src="https://img.shields.io/badge/maintained%20since-1995-%2300B0FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/maintained%20since-1992-%2300B0FF?style=flat-square" />
     <span> </span>
     <img src="https://img.shields.io/badge/%F0%9F%92%9B-JavaScript-%23304FFE?style=flat-square" />
   </p>
@@ -35,20 +35,31 @@ Here are some ideas to get you started:
 ## Features
 
 * Quick and easy web apps
-* Thinks about stuff
 * I can read code.
 
 ## Technologies
 
-My current favorite stack is ReactJS, NextJS, Styled Components and NodeJS. 
-I have worked with (and will probably continue) working with Angular, SvelteJS, VueJS and Java, PHP, Python on the backend or competitive programming. 
-
+🔭 I’m currently working on - ReactJS, NextJS and NodeJS. 
+I have worked with (and will probably continue) working with JavaScript, Java, PHP, Python on the backend or competitive programming.
+🌱 I’m currently learning - NodeJS, GoLang, TypeScript
 You can probably find related open source repositories 👆
 
 ## Contributing
 
-Contributions and Conversations are always welcome. Not taking feature requests at this time. 
-Feel free to check issues page.
+👯 I’m looking to collaborate on open source project
+
+## 💬 Ask me about ...
+AWS, Docker, JavaScript, Profiling & Debugging
+
+##📫 How to reach me: ...
+Email : amit.jhariya93@gmail.com
+Skype : ajhariya
+LinkedIn :https://www.linkedin.com/in/amitjhariya
+Twitter : https://twitter.com/AmitJhariya93
+
+
+## ⚡ Fun fact: 
+Lazy, Backbencher, Sleeping if not online.
 
 ### Development
 
