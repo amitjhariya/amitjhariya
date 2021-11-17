@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <h1>Hey 👋 I'm Agney</h1>
+  <h1>Hey 👋 I'm Amit</h1>
   <p>
     <a href="https://blog.amit.dev">Blog</a>
     <span> </span>
