@@ -49,13 +49,13 @@ You can probably find related open source repositories 👆
 👯 I’m looking to collaborate on open source project
 
 ## 💬 Ask me about ...
-AWS, Docker, JavaScript, Profiling & Debugging
+AWS, Docker, JavaScript, Profiling & Debugging.
 
-##📫 How to reach me: ...
-Email : amit.jhariya93@gmail.com
-Skype : ajhariya
-LinkedIn :https://www.linkedin.com/in/amitjhariya
-Twitter : https://twitter.com/AmitJhariya93
+## 📫 How to reach me: ...
+Email : amit.jhariya93@gmail.com.
+Skype : ajhariya.
+LinkedIn :https://www.linkedin.com/in/amitjhariya.
+Twitter : https://twitter.com/AmitJhariya93.
 
 
 ## ⚡ Fun fact: 
