@@ -52,10 +52,10 @@ You can probably find related open source repositories 👆
 AWS, Docker, JavaScript, Profiling & Debugging.
 
 ## 📫 How to reach me: ...
-Email : amit.jhariya93@gmail.com.
-Skype : ajhariya.
-LinkedIn :https://www.linkedin.com/in/amitjhariya.
-Twitter : https://twitter.com/AmitJhariya93.
+* Email : amit.jhariya93@gmail.com
+* Skype : ajhariya
+* LinkedIn :https://www.linkedin.com/in/amitjhariya
+* Twitter : https://twitter.com/AmitJhariya93
 
 
 ## ⚡ Fun fact: 
