@@ -12,8 +12,8 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-        Hey 👋 I'm  <a href="https://nextjs.org">Amit</a>
+        <h1 className={styles.title}> {`Hey 👋 I'm`}
+          <a href="https://nextjs.org">Amit</a>
         </h1>
       </main>
     </div>
