@@ -5,7 +5,7 @@ export default function Headers(){
         <header>
             <nav>
                 <li>
-                    <Link href={'/'}>
+                    <Link href='/'>
                     Home
                     </Link>
                 </li>
