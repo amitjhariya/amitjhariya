@@ -10,17 +10,17 @@ export default function Headers(){
                     </Link>
                 </li>
                 <li>
-                    <Link href={'/blogs'}>
+                    <Link href='/blogs'>
                     Blogs
                     </Link>
                 </li>
                 <li>
-                    <Link href={'/portfolio'}>
+                    <Link href='/portfolio'>
                     Portfolio
                     </Link>
                 </li>
                 <li>
-                    <Link href={'/contact'}>
+                    <Link href='/contact'>
                     Contact
                     </Link>
                 </li>
