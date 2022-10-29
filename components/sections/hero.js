@@ -1,4 +1,4 @@
-export default () => {
+export default Hero= () => {
     return (
         <section className="hero">
             <p className="intro">Hi, my name is</p>
