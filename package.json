@@ -8,11 +8,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^7.6.2",
     "next": "^13.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@types/node": "18.11.7",
+    "@types/react": "18.0.24",
     "eslint": "7",
     "eslint-config-next": "^13.0.0"
   }

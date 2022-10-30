@@ -49,8 +49,10 @@ li {
 
 
 section {
+  
   width: 1000px;
   margin: auto;
+  margin-top: 20vh
 }
 
 p.intro {
@@ -68,7 +70,7 @@ h1.title {
 h1.subTitle {
   margin-top: 10px;
   color: var(--slate);
-  font-size: 80px
+  font-size: 80px;
 }
 
 p.desc{
@@ -79,6 +81,27 @@ p.desc{
 }
 p.desc>span{
   color: var(--cool);
+}
+
+.dotnetfiddle {
+  
+  filter: grayscale(var(100, 100%));  
+  overflow: hidden;
+  display: inherit;
+}
+
+.iframeBox{
+  position: absolute;
+  width: 400px;
+  height: 40vh;
+  bottom: 0;
+  display: none;
+}
+.iframeClose{
+  position: relative;
+}
+.iframeBox.open{
+  display: block;
 }
 
 footer {
