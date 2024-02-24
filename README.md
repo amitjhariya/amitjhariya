@@ -1,72 +1,30 @@
-<!--
-**amitjhariya/amitjhariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <h1>Hey 👋 I'm Amit</h1>
-  <p>
-    <a href="https://blog.amit.dev">Blog</a>
-    <span> </span>
-    <a href="https://twitter.com/amitjhariya93">Twitter</a>
-    <span> </span>
-    <a href="https://amit.dev">Portfolio</a>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Super Fast-%E2%9A%A1%EF%B8%8F-%23DD6B20?style=flat-square" />
-    <span> </span>
-    <img src="https://img.shields.io/badge/maintained%20since-1992-%2300B0FF?style=flat-square" />
-    <span> </span>
-    <img src="https://img.shields.io/badge/%F0%9F%92%9B-JavaScript-%23304FFE?style=flat-square" />
-  </p>
-</div>
-
-## Features
-
-* Quick and easy web apps
-* I can read code.
-
-## Technologies
-
-🔭 I’m currently working on - ReactJS, NextJS and NodeJS. 
-I have worked with (and will probably continue) working with JavaScript, Java, PHP, Python on the backend or competitive programming.
-🌱 I’m currently learning - NodeJS, GoLang, TypeScript
-You can probably find related open source repositories 👆
-
-## Contributing
-
-👯 I’m looking to collaborate on open source project
-
-## 💬 Ask me about ...
-AWS, Docker, JavaScript, Profiling & Debugging.
-
-## 📫 How to reach me: ...
-* Email : amit.jhariya93@gmail.com
-* Skype : ajhariya
-* LinkedIn :https://www.linkedin.com/in/amitjhariya
-* Twitter : https://twitter.com/AmitJhariya93
+# 💫 About Me:
+🔭 I’m currently working on Bhavitha Tech as Techincal Lead.<br><br>👯 I’m looking to collaborate on: Exciting projects involving cutting-edge technologies and innovative solutions.<br><br>🌱 I’m currently learning and exploring new developments in Advanced Gen Ai <br><br>💬 Ask me about: My experience in designing high-performance REST APIs and scalable application structures.<br><br>⚡ Fun fact: I enjoy experimenting with LLMs and Ai automation techniques to gather data and streamline processes.
 
 
-## ⚡ Fun fact: 
-Lazy, Backbencher, Sleeping if not online.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amitjhariya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AmitJhariya93) 
 
-### Development
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![FLUENTD](https://img.shields.io/badge/fluentd-0E83C8.svg?style=for-the-badge&logo=fluentd&logoColor=white&color=%230E83C8) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white&color=%23005571) ![LOGSTASH](https://img.shields.io/badge/logstash-005571.svg?style=for-the-badge&logo=logstash) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white&color=%23E6522C) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amitjhariya&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amitjhariya&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitjhariya&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-```bash
-npm run coffee
-```
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amitjhariya&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### Testing
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-```javascript
-// Please don't
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amitjhariya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=amitjhariya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
